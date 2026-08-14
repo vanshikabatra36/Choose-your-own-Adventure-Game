@@ -29,7 +29,7 @@ A simple **text-based adventure game** built with Python. The player explores di
 1. Clone the repository:
 
 ```bash
-git clone <your-repository-link>
+git clone https://github.com/vanshikabatra36/Choose-your-own-Adventure-Game.git
 ```
 
 2. Open the project folder in your terminal.
